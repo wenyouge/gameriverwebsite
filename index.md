@@ -4,6 +4,7 @@
 
 
 ![Image of full metal showdown](/images/war.gif)
+
 当象棋遇上星际争霸，大概就是《全金属对决》吧。
 
 
