@@ -1,6 +1,6 @@
 ## 欢迎来到游戏河
-You can use the [editor on GitHub](https://github.com/wenyouge/gameriverwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+我们是一家很小的游戏制作公司
+![Image of full metal showdown](/images/war.gif)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
