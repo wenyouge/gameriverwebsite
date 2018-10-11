@@ -1,6 +1,10 @@
-## 欢迎来到游戏河
-我们是一家很小的游戏制作公司
+### 欢迎来到游戏河
+
+#我们是一家很小的游戏制作公司,我们正在开发一款名为全金属对决的游戏。
+
 ![Image of full metal showdown](/images/war.gif)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
