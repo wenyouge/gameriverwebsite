@@ -1,8 +1,49 @@
 # 欢迎来到游戏河
 
-### 我们是一家很小的游戏制作公司,我们正在开发一款名为全金属对决的游戏。
+### 我们是一家很小的游戏制作公司,我们正在开发一款名为《全金属对决的游戏》。
 
 ![Image of full metal showdown](/images/war.gif)
+
+用一句话来形容《全金属对决》的话，那就是：“象棋遇上星际争霸”。
+
+如果对我们的游戏感兴趣，你可以给我发邮件(wenyouge@game-river.com),或者加入我们的测试QQ群（群号：653286258）。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
