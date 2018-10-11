@@ -4,7 +4,7 @@
 
 ![Image of full metal showdown](/images/war.gif)
 
-用一句话来形容《全金属对决》，那就是：“当象棋遇上星际争霸”。
+“当象棋遇上星际争霸”这大概就是《全金属对决》吧。
 
-如果对我们的游戏感兴趣，
-你可以给我发邮件（wenyouge@game-river.com），或者加入我们的测试QQ群（群号：653286258）。
+如果您对我们的游戏感兴趣，
+可以给我发邮件（wenyouge@game-river.com），或者加入我们的测试QQ群（群号：653286258）。
